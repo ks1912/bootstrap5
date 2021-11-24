@@ -11,6 +11,13 @@
 ##### 4. Text Docaration and font weight
 ##### 5. Text Color
 ##### 6. bg-color
+----------------------------------------------------------------------------=
+## Topics in indexSecond.html
+##### 1. Buttons
+##### 2. Anchor Tags as Buttons
+##### 3. Button Sizes
+##### 4. Outlined Button
+##### 5. Button Group
 ----------------------------------------------------------------------------
 ##### References:- Net Ninja
 ##### Bootstrap5
