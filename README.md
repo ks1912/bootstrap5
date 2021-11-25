@@ -19,7 +19,13 @@
 ##### 3. Button Sizes
 ##### 4. Outlined Button
 ##### 5. Button Group
-----------------------------------------------------------------------------
-##### References:- Net Ninja
-##### Bootstrap5
 
+## Topics in indexThird.html
+
+##### 1. Margine and Padding
+##### 2. Borders
+##### 3. Box Shaddo
+##### 4. Font Weights
+----------------------------------------------------------------------------
+##### References:- Net Ninja 
+##### Bootstrap5
